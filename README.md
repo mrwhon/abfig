@@ -1,11 +1,11 @@
-# Graphab
+# Abfig
 
-AI graphical abstract maker for researchers.
+AI-drafted graphical abstracts from research text or a sketch.
 
-Paste your paper abstract, pick your target journal, and get a
-submission-ready figure sized to journal guidelines — runs in-browser.
+Review the scientific content, labels and your target journal’s AI-image policy before using a draft.
+Export PNG or TIFF with journal-size presets or custom dimensions and DPI using eligible paid access.
 
-🔗 [abfig.com](https://abfig.com)
+[Open Abfig](https://abfig.com/) · [Check journal requirements](https://abfig.com/journals)
 
-Built for Nature, Cell, Elsevier, ACS, Frontiers, Wiley, and more.
-Free credits on signup. No Illustrator needed.
+A limited preview is available. Check the current plans before generating or downloading new artwork.
+Matching a journal’s dimensions does not establish permission to use AI images or guarantee acceptance.
